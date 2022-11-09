@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Угадай число
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_game/README.md#Описание-проекта)  
@@ -42,7 +42,7 @@
 
 
 ### Результаты:  
-....
+Алгоритм угадывает число в среднем за 5 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_game/README.md#Оглавление)
 
