@@ -8,6 +8,8 @@ def random_predict(number: int = np.random.randint(1, 101)) -> int:
     predict_number = np.random.randint(1, 101) # предполагаемое число
     while True:
         count += 1
+        if count > 20: 
+            break
         if predict_number > number:
             max1 = predict_number - 1
             predict_number = (max1 + min1)//2
