@@ -1,17 +1,17 @@
-# Проект 1. Анализ резюме из HeadHunter
+# Проект 2. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
+[1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)  
-[4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Результат)    
-[6. Выводы](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Выводы) 
+[4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Результат)    
+[6. Выводы](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Выводы) 
 
 ### Описание проекта    
 Базовый анализ структуры данных, преобразование данных, разведывательный анализ, очистка данных.
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -37,7 +37,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -47,13 +47,13 @@
 4) очистка данных
 
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
 
 
 ### Выводы:  
