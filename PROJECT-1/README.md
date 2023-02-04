@@ -34,8 +34,8 @@
 Учимся базовому анализу, преобразованию и очистке данных, разведовательному анализу.
 
 
-### Краткая информация о данных
-....
+### Краткая информация о данных 
+(https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view) 
   
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
 
