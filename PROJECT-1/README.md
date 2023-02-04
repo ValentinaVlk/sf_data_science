@@ -3,7 +3,7 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README#Краткая-информация-о-данных)  
+[3. Краткая информация о данных](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Результат)    
 [6. Выводы](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Выводы) 
@@ -50,7 +50,7 @@
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 ....
 
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Оглавление)
