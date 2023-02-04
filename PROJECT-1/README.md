@@ -1,7 +1,7 @@
 # Проект 2. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)  
 [4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Этапы-работы-над-проектом)  
