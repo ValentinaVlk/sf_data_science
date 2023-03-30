@@ -1,4 +1,4 @@
-# Проект 2. Анализ резюме из HeadHunter
+# Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/ValentinaVlk/sf_data_science/blob/main/PROJECT-1/README.md#Описание-проекта)  
