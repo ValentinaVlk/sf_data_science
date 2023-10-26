@@ -25,6 +25,9 @@
 4. Разработать небольшой веб-сервис, на вход которому поступают данные о некоторой выставленной на продажу недвижимости, а сервис прогнозирует его стоимость.
 
 
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
+
+
 ### Информация о данных
 
 (https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view)
@@ -46,6 +49,7 @@
 - 'mls-id' и 'MlsId' — идентификатор MLS (Multiple Listing Service, система мультилистинга);
 
 - 'target' — цена объекта недвижимости (целевой признак, который необходимо спрогнозировать).
+
   
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
 
@@ -70,11 +74,16 @@
 - градиентного бустинга CatBoostRegressor
 Выводы
 
+
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
 
 
 ### Результаты и выводы:
 - Лучшие результаты у модели градиентного бустинга CatBoostRegressor, где показатели ошибок MSE и MAE меньшие, а коэффициент детерминации R2 наибольший для обеих как обучающей, так и тестовой выборок. И что важно, сама разница между показателями минимальна, что свидетельствует об отсутствии переобучения модели.
 - RandomForestRegressor тоже имеет хороший результат обучения модели, так как он имеет наименьший показатель ошибок MSE и MAE, но при этом высокий коэффициент детерминации R2 на обеих выборках. Однако, стоит учесть переобучение случайного леса, так как разница между показателями на обучающей и тестовой наборах является существенной.
+
+
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
+
 
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
