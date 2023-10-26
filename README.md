@@ -10,6 +10,6 @@
 
 * [Проект 2. Анализ вакансий из HeadHunter ] (https://github.com/ValentinaVlk/sf_data_science/tree/main/PROJECT-2)
 
-* [Дипломный проект. Курс Специализация Data Science
-Бриф учебного кейса «Модель прогнозирования стоимости жилья для агентства недвижимости»]
+* [Дипломный проект. Курс Специализация Data Science.
+Бриф учебного кейса: «Модель прогнозирования стоимости жилья для агентства недвижимости»]
  (https://github.com/ValentinaVlk/sf_data_science/tree/main/DIPLOMA)
