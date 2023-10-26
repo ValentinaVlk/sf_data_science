@@ -5,17 +5,17 @@
 «Модель прогнозирования стоимости жилья для агентства недвижимости»
 
 ## Оглавление  
-[1. Цель проекта](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
-[2. Поставленные задачи](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Информация о данных](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результаты/выводы ](https://github.com/ValentinaVlk/sf_data_science/tree/main/project_0/README.md#Результат)    
+[1. Цель проекта](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Цель-проекта)  
+[2. Поставленные задачи](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Поставленные-задачи)  
+[3. Информация о данных](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Этапы-работы-над-проектом)  
+[5. Результаты и выводы ](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Результаты-и-выводы)    
 
 ### Цель проекта    
 Разработать модель, которая позволила бы агентству недвижимости обойти конкурентов по скорости и качеству совершения сделок.
 
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Оглавление)
 
 
 ### Поставленные задачи
@@ -26,25 +26,28 @@
 
 
 ### Информация о данных
-➔ 'status' — статус продажи;
-➔ 'private pool' и 'PrivatePool' — наличие собственного бассейна;
-➔ 'propertyType' — тип объекта недвижимости;
-➔ 'street' — адрес объекта;
-➔ 'baths' — количество ванных комнат;
-➔ 'homeFacts' — сведения о строительстве объекта (содержит несколько типов сведений, влияющих на оценку объекта);
-➔ 'fireplace' — наличие камина;
-➔ 'city' — город;
-➔ 'schools' — сведения о школах в районе;
-➔ 'sqft' — площадь в футах;
-➔ 'zipcode' — почтовый индекс;
-➔ 'beds' — количество спален;
-➔ 'state' — штат;
-➔ 'stories' — количество этажей;
-➔ 'mls-id' и 'MlsId' — идентификатор MLS (Multiple Listing Service, система мультилистинга);
 
-➔ 'target' — цена объекта недвижимости (целевой признак, который необходимо спрогнозировать).
+(https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view)
+
+- 'status' — статус продажи;
+- 'private pool' и 'PrivatePool' — наличие собственного бассейна;
+- 'propertyType' — тип объекта недвижимости;
+- 'street' — адрес объекта;
+- 'baths' — количество ванных комнат;
+- 'homeFacts' — сведения о строительстве объекта (содержит несколько типов сведений, влияющих на оценку объекта);
+- 'fireplace' — наличие камина;
+- 'city' — город;
+- 'schools' — сведения о школах в районе;
+- 'sqft' — площадь в футах;
+- 'zipcode' — почтовый индекс;
+- 'beds' — количество спален;
+- 'state' — штат;
+- 'stories' — количество этажей;
+- 'mls-id' и 'MlsId' — идентификатор MLS (Multiple Listing Service, система мультилистинга);
+
+- 'target' — цена объекта недвижимости (целевой признак, который необходимо спрогнозировать).
   
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -67,11 +70,11 @@
 - градиентного бустинга CatBoostRegressor
 Выводы
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Оглавление)
 
 
-### Результаты/выводы:
+### Результаты и выводы:
 - Лучшие результаты у модели градиентного бустинга CatBoostRegressor, где показатели ошибок MSE и MAE меньшие, а коэффициент детерминации R2 наибольший для обеих как обучающей, так и тестовой выборок. И что важно, сама разница между показателями минимальна, что свидетельствует об отсутствии переобучения модели.
 - RandomForestRegressor тоже имеет хороший результат обучения модели, так как он имеет наименьший показатель ошибок MSE и MAE, но при этом высокий коэффициент детерминации R2 на обеих выборках. Однако, стоит учесть переобучение случайного леса, так как разница между показателями на обучающей и тестовой наборах является существенной.
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/edit/main/DIPLOMA/README.md#Оглавление)
