@@ -85,5 +85,3 @@
 
 :arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
 
-
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
