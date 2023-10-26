@@ -5,17 +5,17 @@
 «Модель прогнозирования стоимости жилья для агентства недвижимости»
 
 ## Оглавление  
-[1. Цель проекта](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Цель-проекта)  
-[2. Поставленные задачи](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Поставленные-задачи)  
-[3. Информация о данных](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Этапы-работы-над-проектом)  
-[5. Результаты и выводы ](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Результаты-и-выводы)    
+[1. Цель проекта](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Цель-проекта)  
+[2. Поставленные задачи](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Поставленные-задачи)  
+[3. Информация о данных](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Этапы-работы-над-проектом)  
+[5. Результаты и выводы ](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Результаты-и-выводы)    
 
 ### Цель проекта    
 Разработать модель, которая позволила бы агентству недвижимости обойти конкурентов по скорости и качеству совершения сделок.
 
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
 
 
 ### Поставленные задачи
@@ -47,7 +47,7 @@
 
 - 'target' — цена объекта недвижимости (целевой признак, который необходимо спрогнозировать).
   
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -70,11 +70,11 @@
 - градиентного бустинга CatBoostRegressor
 Выводы
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
 
 
 ### Результаты и выводы:
 - Лучшие результаты у модели градиентного бустинга CatBoostRegressor, где показатели ошибок MSE и MAE меньшие, а коэффициент детерминации R2 наибольший для обеих как обучающей, так и тестовой выборок. И что важно, сама разница между показателями минимальна, что свидетельствует об отсутствии переобучения модели.
 - RandomForestRegressor тоже имеет хороший результат обучения модели, так как он имеет наименьший показатель ошибок MSE и MAE, но при этом высокий коэффициент детерминации R2 на обеих выборках. Однако, стоит учесть переобучение случайного леса, так как разница между показателями на обучающей и тестовой наборах является существенной.
 
-:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/main/DIPLOMA/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ValentinaVlk/sf_data_science/blob/main/DIPLOMA/README.md#Оглавление)
