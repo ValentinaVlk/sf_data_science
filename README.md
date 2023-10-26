@@ -15,4 +15,4 @@
  Бриф учебного кейса 
 
 «Модель прогнозирования стоимости жилья для агентства недвижимости»]
- (https://github.com/ValentinaVlk/sf_data_sc)
+ (https://github.com/ValentinaVlk/sf_data_science/tree/main/DIPLOMA)
